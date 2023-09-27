@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "login": "AAA",
+      "username": "flint",
+      "password": "111"
+    },
+    {
+      "login": "BBB",
+      "username": "flinstone",
+      "password": "222"
+    },
+    {
+      "login": "CCC",
+      "username": "slayer",
+      "password": "333"
+    }
+  ]
+}
